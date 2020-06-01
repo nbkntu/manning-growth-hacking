@@ -1,1 +1,1 @@
-# manning-growth-hacking
+Manning Live Project
